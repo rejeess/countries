@@ -1,0 +1,15 @@
+.subhead {
+    font-weight: bolder;
+    background-color: rgb(65, 61, 61);
+    color: white;
+    display: flex;
+    list-style: none;
+    padding: 0 10px;
+    justify-content: space-between;
+    text-align: left;
+}
+.course{
+    color:white;
+    cursor: pointer;
+   
+}
